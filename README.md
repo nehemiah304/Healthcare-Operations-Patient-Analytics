@@ -1,4 +1,4 @@
-# Healthcare-Operations-Patient-Analytics
+# Healthcare-Operations-Patient-Analytics (Python)
 This project performs exploratory data analysis (EDA) on hospital patient data using Python. Ten analytical questions were developed to uncover patterns in patient demographics, condition prevalence, billing behavior, insurance usage, length of stay, test outcomes, admission trends, and prescribing patterns.
 
 The goal is to surface operational and cost patterns that could inform hospital resourcing, insurance strategy, and data-quality practices — while explicitly separating invalid billing records from the analysis rather than letting them distort the results.
